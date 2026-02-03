@@ -43,3 +43,6 @@ next-env.d.ts
 .idea
 .idea/
 yarn.lock
+yarn.lock
+.env.local
+.env
